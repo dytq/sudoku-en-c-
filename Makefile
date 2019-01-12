@@ -28,7 +28,7 @@ pile.o: pile.c pile.h  constantes.h
 
 # Pour faire un zip
 # Mettre son nom à la place de SUDOKU
-LENOM=DEDARALLY_Taariq
+LENOM=xx_xx
 zip:
 	rm -rf ${LENOM}
 	rm -rf ${LENOM}.zip
