@@ -1,2 +1,2 @@
 # sudoku-en-c-
-cat hepl.me 
+cat help.me 
