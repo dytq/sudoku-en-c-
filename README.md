@@ -1,5 +1,8 @@
 # Sudoku en c 
-Bibliothèque utilisé uvsq_graphics(sdl,debian) disponible sur github.
+## 0.Avant propos
+Bibliothèque utilisé uvsq_graphics(sdl,debian) disponible sur github.<br>
+- Le détail du projet(+capture d'écran) c'est dans la documentation(doc/sudokuproject.pdf)
+- Code source (src/*)
 ## 1.Quick-Start
 ### 1.Installation des composants
 Installer sdl puis uvsq_graphics
