@@ -7,7 +7,7 @@ Bibliothèque utilisé uvsq_graphics(sdl,debian(mais possibilité de changé le 
 ### 1.Installation des composants
 Installer sdl puis uvsq_graphics
 ### 2.Compilation du projet
-make
+cd src && make
 ### 3.Execution du projet
  - ./sudoku (ouverture par défaut) 
  - Sinon il faut chargé une map:<br>
