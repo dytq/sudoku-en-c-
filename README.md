@@ -1,5 +1,14 @@
 # Sudoku en c 
-Bibliothèque utilisé uvsq_graphics disponible sur github 
+Bibliothèque utilisé uvsq_graphics(sdl,debian) disponible sur github.
+## 1.Quick-Start
+### 1.Installation des composants
+Installer sdl puis uvsq_graphics
+### 2.Compilation du projet
+make
+### 3.Execution du projet
+./sudoku (ouverture par défaut)
+Sinon il faut chargé une map:
+./sudoku <le_niveau_a_chargé.sudoku>
 ## 1. Tout ce qui concerne l'affichage
 afficher.c
 afficher.h
