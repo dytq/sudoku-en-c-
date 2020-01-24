@@ -13,7 +13,7 @@ make
 afficher.c
 afficher.h
 
-## 2. La définition des constantes pour essentiellement l'affichage
+## 2. La définition des constantes pour l'affichage
 constantes.h
 
 ## 3. La définition du type SUDOKU et les fonctions de manupulation de cetype
